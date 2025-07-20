@@ -1,5 +1,6 @@
 ## Hi, Myself Shamanth Rai 👋
-
+- 🔭 I’m currently a Manager at Sri Ramakrishna Credit Co-opertive Society Ltd., Mangaluru
+- 🌱 I’m currently learning CYBER  and applying concepts like vulnerability scanning log monitoring, SIEM tools and ethical hacking. I bring both operational leadership and a security first mindset from my eperience managing financial system.
 <!--
 **shamanthrai/shamanthrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
